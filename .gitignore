@@ -1,0 +1,18 @@
+# Jupyter notebooks
+.ipynb_checkpoints/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Virtual environments
+.venv/
+venv/
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+# Data
+data/raw/
+data/interim/
+data/processed/
