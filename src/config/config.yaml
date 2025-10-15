@@ -1,0 +1,14 @@
+data_paths:
+  raw: data/raw/
+  interim: data/interim/
+  processed: data/processed/
+  external: data/external/
+
+mlflow:
+  tracking_uri: mlruns/
+  experiment_name: claims_ai_baseline
+
+model_params:
+  n_estimators: 200
+  max_depth: 5
+  learning_rate: 0.1
