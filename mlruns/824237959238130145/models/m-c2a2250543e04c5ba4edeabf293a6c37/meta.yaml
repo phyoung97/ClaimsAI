@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/payou/ClaimsAI/mlruns/824237959238130145/models/m-c2a2250543e04c5ba4edeabf293a6c37/artifacts
+creation_timestamp: 1763915264489
+experiment_id: '824237959238130145'
+last_updated_timestamp: 1763915270036
+model_id: m-c2a2250543e04c5ba4edeabf293a6c37
+model_type: null
+name: model
+source_run_id: d25bd54848ac4374b7837f74c533b93f
+status: 2
+status_message: null

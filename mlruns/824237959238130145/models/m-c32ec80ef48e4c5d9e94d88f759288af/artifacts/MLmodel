@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/payou/ClaimsAI/mlruns/824237959238130145/models/m-c32ec80ef48e4c5d9e94d88f759288af/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-c32ec80ef48e4c5d9e94d88f759288af
+model_size_bytes: 492422
+model_uuid: m-c32ec80ef48e4c5d9e94d88f759288af
+prompts: null
+run_id: 997e4edb4d0f458a8a90080471abf837
+utc_time_created: '2025-11-20 13:17:10.843311'
