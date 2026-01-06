@@ -1,0 +1,16 @@
+creation_timestamp: 1767469253860
+current_stage: None
+deployment_job_state: null
+description: This is a test of the model registry UI. This model is the 2026 version
+  of a previous model originally done in 11/2025
+last_updated_timestamp: 1767469421436
+model_id: m-c07fdc50b9a44e4b982e7f01aa90ff45
+name: claimsai_iso_anomaly
+run_id: 727988a5582d4a07ab254f5e9266c64a
+run_link: null
+source: models:/m-c07fdc50b9a44e4b982e7f01aa90ff45
+status: READY
+status_message: null
+storage_location: file:///C:/Users/payou/ClaimsAI/mlruns/824237959238130145/models/m-c07fdc50b9a44e4b982e7f01aa90ff45/artifacts
+user_id: null
+version: 2

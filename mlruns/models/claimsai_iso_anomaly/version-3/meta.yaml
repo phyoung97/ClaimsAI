@@ -1,0 +1,15 @@
+creation_timestamp: 1767470033797
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1767470033797
+model_id: m-42babf4fe0e2415dbd479e1aac15b446
+name: claimsai_iso_anomaly
+run_id: cac2c94218094c7780db72e765ef94b7
+run_link: null
+source: models:/m-42babf4fe0e2415dbd479e1aac15b446
+status: READY
+status_message: null
+storage_location: file:///C:/Users/payou/ClaimsAI/mlruns/824237959238130145/models/m-42babf4fe0e2415dbd479e1aac15b446/artifacts
+user_id: null
+version: 3

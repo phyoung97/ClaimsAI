@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/payou/ClaimsAI/mlruns/824237959238130145/b7ebac8d76f146b5a78694b058c2cea7/artifacts
+end_time: 1767470020991
+entry_point_name: ''
+experiment_id: '824237959238130145'
+lifecycle_stage: active
+run_id: b7ebac8d76f146b5a78694b058c2cea7
+run_name: xgboost_anomaly_classifier_1.3.2026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767470013633
+status: 3
+tags: []
+user_id: payou

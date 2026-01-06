@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/payou/ClaimsAI/mlruns/824237959238130145/cac2c94218094c7780db72e765ef94b7/artifacts
+end_time: 1767470033863
+entry_point_name: ''
+experiment_id: '824237959238130145'
+lifecycle_stage: active
+run_id: cac2c94218094c7780db72e765ef94b7
+run_name: isolation_forest_anomaly_detector_1.3.2026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767470028589
+status: 3
+tags: []
+user_id: payou

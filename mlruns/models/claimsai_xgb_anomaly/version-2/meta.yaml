@@ -1,0 +1,15 @@
+creation_timestamp: 1767469240734
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1767469240734
+model_id: m-19a9aecf94404089afae95101860db3b
+name: claimsai_xgb_anomaly
+run_id: 31e4939dcb8f4411a24042f4cbe9bf85
+run_link: null
+source: models:/m-19a9aecf94404089afae95101860db3b
+status: READY
+status_message: null
+storage_location: file:///C:/Users/payou/ClaimsAI/mlruns/824237959238130145/models/m-19a9aecf94404089afae95101860db3b/artifacts
+user_id: null
+version: 2

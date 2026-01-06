@@ -1,0 +1,40 @@
+artifact_path: file:///C:/Users/payou/ClaimsAI/mlruns/824237959238130145/models/m-ce479866349a407eb16c2652d4334e40/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.5.1
+model_id: m-ce479866349a407eb16c2652d4334e40
+model_size_bytes: 3315406
+model_uuid: m-ce479866349a407eb16c2652d4334e40
+prompts: null
+run_id: 23d46803014f4ba0999ae546be735c22
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "AGE", "required": true}, {"type": "long", "name":
+    "Date_of_Death", "required": true}, {"type": "string", "name": "Gender", "required":
+    true}, {"type": "string", "name": "Race", "required": true}, {"type": "long",
+    "name": "total_coverage_months", "required": true}, {"type": "long", "name": "chronic_count",
+    "required": true}, {"type": "long", "name": "Number_of_months_covered_a", "required":
+    true}, {"type": "long", "name": "Numver_of_months_covered_b", "required": true},
+    {"type": "long", "name": "Number_of_months_HMO_coverage", "required": true}, {"type":
+    "long", "name": "Number_of_months_covered_d", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-01-03 19:27:12.621811'
